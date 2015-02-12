@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/walker/Development/hello-ghp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2015. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/walker/Development/hello-ghp/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Hello, GitHub Pages 1.0 API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' '/Users/walker/Development/hello-ghp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Hello, GitHub Pages 1.0 API'
